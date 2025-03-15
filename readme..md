@@ -9,3 +9,5 @@ git init -------->to intialize the repository
 
 updating in the github manually
 
+updated on the hub-branch to pull the request
+
